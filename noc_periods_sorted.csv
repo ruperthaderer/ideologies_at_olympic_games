@@ -1,0 +1,344 @@
+NOC,Country,Start_Year,End_Year,System
+AFG,Afghanistan,1896,1973,Kingdom
+AFG,Afghanistan,1974,1978,Capitalism
+AFG,Afghanistan,1979,1992,Communism
+AFG,Afghanistan,1993,2001,Theocracy
+AFG,Afghanistan,2002,2021,Capitalism
+ALB,Albania,1946,1991,Communism
+ALB,Albania,1992,2024,Capitalism
+ALG,Algeria,1964,1995,Communism
+ALG,Algeria,1996,2024,Capitalism
+ASA,American Samoa,1929,2024,Capitalism
+AND,Andorra,1896,1993,Theocracy
+AND,Andorra,1994,2024,Capitalism
+ANG,Angola,1975,1991,Communism
+ANG,Angola,1992,2024,Capitalism
+ANT,Antigua,1975,2024,Capitalism
+ARG,Argentina,1896,2016,Capitalism
+ARM,Armenia,1994,2016,Capitalism
+ARU,Aruba,1987,2016,Capitalism
+AUS,Australia,1896,1906,Monarchism
+ANZ,Australia,1908,1912,Capitalism
+AUS,Australia,1920,2016,Capitalism
+AUT,Austria,1896,1912,Monarchism
+AUT,Austria,1924,1933,Capitalism
+AUT,Austria,1934,1945,Fascism
+AUT,Austria,1946,2024,Capitalism
+AZE,Azerbaijan,1996,2016,Capitalism
+BAH,Bahamas,1896,1964,Monarchism
+BAH,Bahamas,1965,2016,Capitalism
+BRN,Bahrain,1984,2016,Monarchism
+BAN,Bangladesh,1984,2016,Capitalism
+BAR,Barbados,1968,2016,Capitalism
+BLR,Belarus,1994,2016,Communism
+BEL,Belgium,1900,2016,Capitalism
+BIZ,Belize,1968,2016,Capitalism
+BEN,Benin,1972,1990,Communism
+BEN,Benin,1991,2016,Capitalism	
+BER,Bermuda,1936,1968,Monarchism
+BER,Bermuda,1969,2016,Capitalism
+BHU,Bhutan,1984,2007,Monarchism
+BHU,Bhutan,2008,2024,Capitalism
+BOL,Boliva,1936,2006,Capitalism
+BOL,Boliva,2007,2024,Communism
+BIH,Bosnia and Herzegovina,1992,2016,Capitalism
+BOT,Botswana,1980,2016,Capitalism
+BRA,Brazil,1896,2024,Capitalism
+BRU,Brunei,1996,2016,Theocracy
+BUL,Bulgaria,1908,1946,Monarchism
+BUL,Bulgaria,1948,1990,Communism
+BUL,Bulgaria,1991,2024,Capitalism
+BUR,Burkina Faso,1972,1972,Capitalism
+BUR,Burkina Faso,1988,2016,Capitalism
+BDI,Burundi,1996,2016,Capitalism
+CAM,Cambodia,1956,1970,Monarchism
+CAM,Cambodia,1971,1975,Capitalism
+CAM,Cambodia,1976,1991,Communism
+CAM,Cambodia,1992,2016,Capitalism
+CMR,Cameroon,1964,2016,Capitalism
+CAN,Canada,1900,2016,Capitalism
+NFL,Canada,1904,1904,Monarchism
+CPV,Cape Verde,1996,2016,Capitalism
+CAY,Cayman Islands,1976,2016,Capitalism
+CAF,Central African Republic,1968,1968,Monarchism
+CAF,Central African Republic,1984,2016,Capitalism
+CHA,Chad,1964,2016,Capitalism
+CHI,Chile,1912,2016,Capitalism
+CHN,China,1932,1949,Capitalism
+HKG,China,1952,2016,Capitalism
+CHN,China,1950,2016,Communism
+COL,Colombia,1900,2016,Capitalism
+COM,Comoros,1996,2016,Capitalism
+COK,Cook Islands,1988,2016,Capitalism
+CRC,Costa Rica,1936,2016,Capitalism
+CRO,Croatia,1992,2016,Capitalism
+CUB,Cuba,1900,1902,Monarchism
+CUB,Cuba,1924,1959,Capitalism
+CUB,Cuba,1960,2016,Communism
+AHO,Curacao,1952,1952,Monarchism
+AHO,Curacao,1960,2016,Capitalism
+CYP,Cyprus,1980,2016,Capitalism
+BOH,Czech Republic,1900,1918,Monarchism
+TCH,Czech Republic,1919,1938,Capitalism
+TCH,Czech Republic,1948,1989,Communism
+CZE,Czech Republic,1990,2016,Capitalism
+COD,Democratic Republic of the Congo,1968,2016,Capitalism
+DEN,Denmark,1896,2016,Capitalism
+DJI,Djibouti,1984,2016,Capitalism
+DMA,Dominica,1996,2016,Capitalism
+DOM,Dominican Republic,1964,2016,Capitalism
+ECU,Ecuador,1924,2016,Capitalism
+EGY,Egypt,1906,1952,Monarchism
+EGY,Egypt,1953,1970,Communism
+EGY,Egypt,1971,2016,Capitalism
+ESA,El Salvador,1932,2016,Capitalism
+GEQ,Equatorial Guinea,1984,2016,Capitalism
+ERI,Eritrea,2000,2016,Communism
+EST,Estonia,1920,1936,Capitalism
+EST,Estonia,1992,2016,Capitalism
+ETH,Ethiopia,1956,1972,Monarchism
+ETH,Ethiopia,1980,1980,Communism
+ETH,Ethiopia,1992,2016,Capitalism
+FIJ,Fiji,1956,1970,Monarchism
+FIJ,Fiji,1984,2016,Capitalism
+FIN,Finland,1906,1917,Monarchism
+FIN,Finland,1920,2016,Capitalism
+FRA,France,1896,2016,Capitalism
+GAB,Gabon,1972,2016,Capitalism
+GAM,Gambia,1984,2016,Capitalism
+GEO,Georgia,1994,2016,Capitalism
+GER,Germany,1896,1917,Monarchism
+GER,Germany,1918,1933,Capitalism
+GER,Germany,1934,1945,Fascism
+GER,Germany,1952,1964,Capitalism
+GER,Germany,1956,1964,Communism
+SAA,Germany,1952,1952,Capitalism
+FRG,Germany,1968,1988,Capitalism
+GDR,Germany,1968,1988,Communism
+GER,Germany,1992,2016,Capitalism
+GHA,Ghana,1952,1952,Monarchism
+GHA,Ghana,1957,1966,Communism
+GHA,Ghana,1967,2016,Capitalism
+GRE,Greece,1896,1924,Monarchism
+CRT,Greece,1906,1906,Monarchism
+GRE,Greece,1924,1935,Capitalism
+GRE,Greece,1935,1967,Monarchism
+GRE,Greece,1967,2016,Capitalism
+GRN,Grenada,1984,2016,Capitalism
+GUM,Guam,1988,2016,Capitalism
+GUA,Guatemala,1932,2016,Capitalism
+GUI,Guinea,1968,1984,Communism
+GUI,Guinea,1985,2016,Capitalism
+GBS,Guinea-Bissau,1996,2016,Capitalism
+GUY,Guyana,1948,1966,Monarchism
+GUY,Guyana,1980,1984,Communism
+GUY,Guyana,1986,2016,Capitalism
+HAI,Haiti,1900,2016,Capitalism
+HON,Honduras,1968,2016,Capitalism
+HUN,Hungary,1896,1918,Monarchism
+HUN,Hungary,1924,1949,Capitalism
+HUN,Hungary,1950,1989,Communism
+HUN,Hungary,1990,2016,Capitalism
+ISL,Iceland,1908,1936,Monarchism
+ISL,Iceland,1948,2016,Capitalism
+IND,India,1900,1947,Monarchism
+IND,India,1948,1991,Communism
+IND,India,1992,2016,Capitalism
+IOA,Individual Olympic Athletes,1992,1992
+IOA,Individual Olympic Athletes,2000,2000
+IOA,Individual Olympic Athletes,2012,2016
+INA,Indonesia,1952,1960,Communism
+INA,Indonesia,1968,2016,Capitalism
+IRI,Iran,1900,1976,Capitalism
+IRI,Iran,1979,2016,Theocracy
+IRQ,Iraq,1948,1948,Monarchism
+IRQ,Iraq,1960,2003,Communism
+IRQ,Iraq,2004,2016,Capitalism
+IRL,Ireland,1924,2016,Capitalism
+ISR,Israel,1952,1970,Communism
+ISR,Israel,1984,2016,Capitalism
+ITA,Italy,1896,1922,Monarchism
+ITA,Italy,1922,1943,Fascism
+ITA,Italy,1946,2016,Capitalism
+CIV,Ivory Coast,1964,2016,Capitalism
+JAM,Jamaica,1948,1956,Monarchism
+JAM,Jamaica,1964,2016,Capitalism
+JPN,Japan,1912,1936,Monarchism
+JPN,Japan,1952,2016,Capitalism
+JOR,Jordan,1980,2016,Monarchism
+KAZ,Kazakhstan,1994,2016,Capitalism
+KEN,Kenya,1956,1963,Monarchism
+KEN,Kenya,1964,2016,Capitalism
+KIR,Kiribati,2004,2016,Capitalism
+KOS,Kosovo,2016,2016,Capitalism
+KUW,Kuwait,1968,2012,Monarchism
+KGZ,Kyrgyzstan,1994,2016,Capitalism
+LAO,Laos,1980,2016,Communism
+LAT,Latvia,1924,1936,Capitalism
+LAT,Latvia,1992,2016,Capitalism
+LIB,Lebanon,1948,2016,Capitalism
+LES,Lesotho,1972,2016,Monarchism
+LBR,Liberia,1956,2016,Capitalism
+LBA,Libya,1968,1968,Monarchism
+LBA,Libya,1980,2011,Communism
+LBA,Libya,2012,2016,Capitalism
+LIE,Liechtenstein,1936,2016,Monarchism
+LTU,Lithuania,1924,1928,Capitalism
+LTU,Lithuania,1992,2016,Capitalism
+LUX,Luxembourg,1900,2016,Monarchism
+MKD,Macedonia,1996,2016,Capitalism
+MAD,Madagascar,1964,1972,Capitalism
+MAD,Madagascar,1980,1984,Communism
+MAD,Madagascar,1992,2016,Capitalism
+MAW,Malawi,1972,2016,Capitalism
+MAL,Malaysia,1956,2016,Monarchism
+MDV,Maldives,1988,2016,Capitalism
+MLI,Mali,1964,1991,Communism
+MLI,Mali,1992,2016,Capitalism
+MLT,Malta,1928,1964,Monarchism
+MLT,Malta,1968,2016,Capitalism
+MHL,Marshall Islands,2008,2016,Capitalism
+MTN,Mauritania,1984,2016,Capitalism
+MRI,Mauritius,1984,2016,Capitalism
+MEX,Mexico,1900,2016,Capitalism
+FSM,Micronesia,2000,2016,Capitalism
+MDA,Moldova,1994,2016,Capitalism
+MON,Monaco,1920,2016,Monarchism
+MGL,Mongolia,1964,1990,Communism
+MGL,Mongolia,1991,2016,Capitalism
+MNE,Montenegro,2008,2016,Capitalism
+MAR,Morocco,1960,2016,Monarchism
+MOZ,Mozambique,1980,1990,Communism
+MOZ,Mozambique,1991,2016,Capitalism
+MYA,Myanmar,1948,1962,Capitalism
+MYA,Myanmar,1980,2011,Communism
+MYA,Myanmar,2012,2016,Capitalism
+NAM,Namibia,1992,2016,Capitalism
+NRU,Nauru,1996,2016,Capitalism
+NEP,Nepal,1924,2008,Monarchism
+NEP,Nepal,2009,2016,Capitalism
+NED,Netherlands,1900,1900
+NED,Netherlands,1906,1912
+NED,Netherlands,1920,1936
+NED,Netherlands,1948,2016
+NZL,New Zealand,1900,1947,Monarchism
+NZL,New Zealand,1948,2016,Capitalism
+NCA,Nicaragua,1968,1978,Capitalism
+NCA,Nicaragua,1979,1990,Communism
+NCA,Nicaragua,1991,2016,Capitalism
+NIG,Niger,1964,2016,Capitalism
+NGR,Nigeria,1952,1960,Monarchism
+NGR,Nigeria,1961,2016,Capitalism
+PRK,North Korea,1964,2016,Communism
+NOR,Norway,1900,1905,Monarchism
+NOR,Norway,1906,2016,Capitalism
+OMA,Oman,1984,2016,Monarchism
+PAK,Pakistan,1948,2016,Capitalism
+PLW,Palau,2000,2016,Capitalism
+PLE,Palestine,1996,2016,Theocracy
+PAN,Panama,1904,1967,Capitalism
+PAN,Panama,1968,1989,Communism
+PAN,Panama,1990,2016,Capitalism
+PNG,Papua New Guinea,1976,2016,Capitalism
+PAR,Paraguay,1968,2016,Capitalism
+PER,Peru,1900,2016,Capitalism
+PHI,Philippines,1924,2016,Capitalism
+POL,Poland,1912,1912,Monarchism
+POL,Poland,1924,1936,Capitalism
+POL,Poland,1948,1989,Communism
+POL,Poland,1990,2016,Capitalism
+POR,Portugal,1912,2016,Capitalism
+PUR,Puerto Rico,1948,2016,Capitalism
+QAT,Qatar,1984,2016,Monarchism
+CGO,Republic of Congo,1964,1964,Capitalism
+CGO,Republic of Congo,1972,1992,Communism
+CGO,Republic of Congo,1993,2016,Capitalism
+ROU,Romania,1900,1947,Capitalism
+ROU,Romania,1948,1989,Communism
+ROU,Romania,1990,2016,Capitalism
+RUS,Russia,1900,1917,Monarchism
+RUS,Russia,1924,1991,Communism
+EUN,Russia,1992,1992,Capitalism
+RUS,Russia,1994,2016,Capitalism
+RWA,Rwanda,1984,2016,Capitalism
+SKN,Saint Kitts,1996,2016,Capitalism
+LCA,Saint Lucia,1996,2016,Capitalism
+VIN,Saint Vincent,1988,2016,Capitalism
+SAM,Samoa,1984,2016,Capitalism
+SMR,San Marino,1960,2016,Capitalism
+STP,Sao Tome and Principe,1996,2016,Capitalism
+KSA,Saudi Arabia,1972,2016,Monarchism
+SEN,Senegal,1964,2016,Capitalism
+SRB,Serbia,1912,1945,Monarchism
+YUG,Serbia,1948,1992,Communism
+SCG,Serbia,1996,2006,Capitalism
+SRB,Serbia,2008,2016,Capitalism
+SEY,Seychelles,1980,1993,Communism
+SEY,Seychelles,1994,2016,Capitalism
+SLE,Sierra Leone,1968,2016,Capitalism
+SVK,Slovakia,1994,2016,Capitalism
+SLO,Slovenia,1992,2016,Capitalism
+SOL,Solomon Islands,1984,2016,Capitalism
+SOM,Somalia,1972,1988,Communism
+SOM,Somalia,1996,2016,Capitalism
+RSA,South Africa,1904,1910,Monarchism
+RSA,South Africa,1911,2016,Capitalism
+KOR,South Korea,1948,2016,Capitalism
+SSD,South Sudan,2016,2016,Capitalism
+ESP,Spain,1900,1931,Monarchism
+ESP,Spain,1932,2016,Capitalism
+SRI,Sri Lanka,1948,2016,Capitalism
+SUD,Sudan,1960,1989,Communism
+SUD,Sudan,1990,2016,Theocracy
+SUR,Suriname,1968,1975,Monarchism
+SUR,Suriname,1976,1991,Communism
+SUR,Suriname,1992,2016,Capitalism
+SWZ,Swaziland,1972,2016,Monarchism
+SWE,Sweden,1896,2016,Capitalism
+SUI,Switzerland,1896,2016,Capitalism
+SYR,Syria,1948,1963,Capitalism
+SYR,Syria,1964,2016,Communism
+TPE,Taiwan,1956,2016,Capitalism
+TJK,Tajikistan,1996,2016,Capitalism
+TAN,Tanzania,1964,1992,Communism
+TAN,Tanzania,1993,2016,Capitalism
+THA,Thailand,1952,2016,Capitalism
+TLS,Timor-Leste,2004,2016,Capitalism
+TOG,Togo,1972,2016,Capitalism
+TGA,Tonga,1984,2016,Monarchism
+TTO,Trinidad,1948,1956,Monarchism
+WIF,Trinidad,1960,1960,Monarchism
+TTO,Trinidad,1964,2016,Capitalism
+TUN,Tunisia,1960,2016,Capitalism
+TUR,Turkey,1906,1912,Monarchism
+TUR,Turkey,1924,2016,Capitalism
+TKM,Turkmenistan,1996,2016,Capitalism
+GBR,UK,1896,2016,Capitalism
+USA,USA,1896,2016,Capitalism
+UGA,Uganda,1956,1962,Monarchism
+UGA,Uganda,1963,2016,Capitalism
+UKR,Ukraine,1994,2016,Capitalism
+UAE,United Arab Emirates,1984,2016,Monarchism
+URU,Uruguay,1924,2016,Capitalism
+UZB,Uzbekistan,1994,2016,Capitalism
+VAN,Vanuatu,1988,2016,Capitalism
+VEN,Venezuela,1932,2016,Capitalism
+VNM,Vietnam,1952,1972,Capitalism
+VIE,Vietnam,1980,2016,Communism
+IVB,"Virgin Islands, British",1984,2016,Monarchism
+ISV,"Virgin Islands, US",1968,1976,Capitalism
+ISV,"Virgin Islands, US",1984,2016,Capitalism
+YAR,Yemen,1984,1988,Capitalism
+YMD,Yemen,1988,1988,Communism
+YEM,Yemen,1992,2016,Capitalism
+ZAM,Zambia,1964,1991,Communism
+ZAM,Zambia,1992,2016,Capitalism
+ZIM,Zimbabwe,1928,1928,Monarchism
+RHO,Zimbabwe,1960,1960,Monarchism
+ZIM,Zimbabwe,1960,1964,Monarchism
+ZIM,Zimbabwe,1980,2016,Capitalism
+UNK,Unknown,1912,1912,NaN
+SGP,Singapore,1948,1965,Monarchism
+SGP,Singapore,1966,2016,Capitalism
+TUV,Tuvalu,2008,2016,Capitalism
+ROT,Refugee Olympic Team,2016,2016,NaN
